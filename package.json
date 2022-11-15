@@ -1,0 +1,25 @@
+{
+  "name": "qa_techtest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoel-Tanujaya/QA_TechTest_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai-json-schema": "^1.5.1",
+    "cypress": "^11.0.1",
+    "cypress-mochawesome-reporter": "^3.2.0",
+    "eslint": "^7.14.0",
+    "eslint-plugin-cypress": "^2.11.2",
+    "install": "^0.13.0",
+    "moment": "^2.29.4",
+    "prettier": "2.0.5"
+  }
+}
